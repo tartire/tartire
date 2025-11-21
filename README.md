@@ -1,5 +1,5 @@
-# HI HELLO
-### i uuhh...
+# kill 7 billion people
+### kill 7 billion people
 <!--
 **tartire/tartire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
