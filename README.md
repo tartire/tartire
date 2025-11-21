@@ -1,5 +1,10 @@
 # kill 7 billion people
 ### kill 7 billion people
+| Rank | Languages |
+|-----:|-----------|
+|     1| test|
+|     2| test    |
+|     3| test       |
 <!--
 **tartire/tartire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
